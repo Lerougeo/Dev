@@ -1,3 +1,3 @@
 var message="hello"
 alert(message)
-//Insert d'un comment
+//insertion d'un comment
